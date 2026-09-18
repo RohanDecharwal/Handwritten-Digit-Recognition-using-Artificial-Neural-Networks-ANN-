@@ -1,5 +1,3 @@
-# AI-ML Assignment – 8
-
 # Handwritten Digit Recognition using Artificial Neural Networks (ANN)
 
 ## Student Details
@@ -101,8 +99,8 @@ This project demonstrates the effectiveness of Artificial Neural Networks for ha
 ## Repository Structure
 
 ```
-Assignment-8/
-│── Assignment_8.ipynb
+Handwritten Digit Recognition using Artificial Neural Networks (ANN)/
+│── Handwritten Digit Recognition using Artificial Neural Networks (ANN).ipynb
 │── README.md
 └── requirements.txt
 ```
